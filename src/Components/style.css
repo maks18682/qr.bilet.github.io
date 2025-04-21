@@ -1,0 +1,15 @@
+.date{
+    width: 100%;
+    color: white;
+    font-size: 140%;
+    font-weight: 600;
+    margin-left: 25%;
+}
+.button{
+    border: none;
+    background-color: rgb(224, 120, 169);
+    color: white;
+    font-size: 150%;
+    margin-left: 240%;
+    font-weight: 700;
+}
