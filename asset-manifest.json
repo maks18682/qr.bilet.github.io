@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qr.bilet.github.io/static/css/main.4679e8aa.css",
+    "main.js": "/qr.bilet.github.io/static/js/main.f8851f29.js",
+    "static/js/453.ed3810f9.chunk.js": "/qr.bilet.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/media/krestImg.png": "/qr.bilet.github.io/static/media/krestImg.74d44012bad83849156a.png",
+    "index.html": "/qr.bilet.github.io/index.html",
+    "main.4679e8aa.css.map": "/qr.bilet.github.io/static/css/main.4679e8aa.css.map",
+    "main.f8851f29.js.map": "/qr.bilet.github.io/static/js/main.f8851f29.js.map",
+    "453.ed3810f9.chunk.js.map": "/qr.bilet.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4679e8aa.css",
+    "static/js/main.f8851f29.js"
+  ]
+}
